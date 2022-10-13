@@ -47,5 +47,5 @@ export default function Todo(){
             <S.ClearAll onClick={() => {deleteAll()}}>Clear All</S.ClearAll>
         </S.Container>
       </>
-    )
+    );
   };
